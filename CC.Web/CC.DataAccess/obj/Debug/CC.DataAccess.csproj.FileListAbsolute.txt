@@ -1,0 +1,16 @@
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll.config
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.pdb
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\CC.Model.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\CC.Model.pdb
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.pdb

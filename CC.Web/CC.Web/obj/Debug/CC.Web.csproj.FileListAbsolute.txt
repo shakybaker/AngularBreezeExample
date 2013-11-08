@@ -1,0 +1,15 @@
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.Web.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.Web.pdb
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.Model.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\EntityFramework.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\CC.Model.pdb
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\EntityFramework.xml
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Users\mark.baker\Source\Repos\AngularBreezeExample\CC.Web\CC.Web\obj\Debug\CC.Web.pdb
